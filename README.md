@@ -1,4 +1,4 @@
-# Extracting Tesla Stock Data
+# Extracting Tesla Historical Stock Data (2010-2025)
 
 ## Project Overview
 
